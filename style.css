@@ -1,0 +1,22 @@
+p{
+    color: #444;
+}
+
+a{
+    color: #ca4b21;
+    padding: 4px 2px;
+}
+
+.fas{
+    font-size: 10px;
+    padding: 2px;
+}
+
+a:hover{
+    background-color: #ca4b21;
+    color: white;
+    text-decoration: none;
+    transition: .2s ease-in-out;
+}
+
+/* used fontawesome but do not have pro for exact icon */
